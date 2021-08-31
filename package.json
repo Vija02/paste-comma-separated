@@ -2,7 +2,7 @@
 	"name": "paste-comma-separated",
 	"displayName": "Paste clipboard as comma-separated list",
 	"description": "Pastes your clipboard as a comma-separated list",
-	"publisher": "Michael Salim",
+	"publisher": "vija02",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.38.0"
